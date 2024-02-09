@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Jade Tran.
+### My name is Jade Tran. I'm based in The Bay Area, CA.
 
 #### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jadevtran)
